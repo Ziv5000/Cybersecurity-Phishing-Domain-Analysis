@@ -3,7 +3,7 @@
 **Date:** 2025  
 
 ## Overview  
-This project was completed to identify, analyze, and classify potentially malicious domains using OSINT and threat intelligence tools.  
+This project was completed as part of a home assignment to identify, analyze, and classify potentially malicious domains using OSINT and threat intelligence tools.  
 
 ## Methodology  
 - WHOIS queries (Kali Linux)  
